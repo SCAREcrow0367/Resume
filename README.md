@@ -66,7 +66,7 @@ Full Stack Developer 		 April 2022 – present
 •	Executed front-end development with proficiency in TypeScript, JavaScript, HTML, CSS, and PHP, contributing to the creation and maintenance of dynamic websites.
 
 North Dakota Securities Department
-Fintech Analyst 		 August 2020 – present
+Fintech Analyst 		 August 2020 – June 2024
 •	Overhaul and update of departmental websites to enhance user accessibility and information dissemination. 
 •	Maintain meticulous records of analytical data, ensuring accuracy and reliability in reporting. 
 •	Develop and deliver comprehensive reports and presentations to communicate key findings to stakeholders. 
